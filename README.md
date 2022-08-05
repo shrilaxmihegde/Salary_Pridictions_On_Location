@@ -13,5 +13,5 @@ XGBRegressor ,DecisionTreeRegressor, ExtraTreesRegressor etc).
 5. plotly.
 
 # Conclusion:
-Here i took four different currency(USD,GBP,EUR,INR) that basis did categorey and pridict and fit the model.
+Here i took four different currences(USD,GBP,EUR,INR) that basis did categorey and pridict and fit the model.
 It gives maney different result basis on dataset. 
